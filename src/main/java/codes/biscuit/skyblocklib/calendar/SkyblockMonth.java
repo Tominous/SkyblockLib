@@ -11,9 +11,9 @@ public enum SkyblockMonth {
     EARLY_SUMMER("Early Summer"),
     SUMMER("Summer"),
     LATE_SUMMER("Late Summer"),
-    EARLY_FALL("Early Fall"),
-    FALL("Fall"),
-    LATE_FALL("Late Fall");
+    EARLY_FALL("Early Autumn"),
+    FALL("Autumn"),
+    LATE_FALL("Late Autumn");
 
     private String scoreboardString;
 
